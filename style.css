@@ -1,0 +1,46 @@
+header {
+    color:rgb(131, 5, 5);
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+ .vk {
+ background-color: blue;
+ text-decoration: none;
+ border: 2px solid blue;
+ color: black;
+border-radius: 10px;
+padding: 2px;
+ }
+ .game {
+     background-color: orange;
+     text-decoration: none;
+     border: 2px solid orange;
+     color: black;
+border-radius: 10px;
+padding: 2px;
+ }
+ 
+ .one {
+     color: violet;
+ }
+ .two {
+     color: violet;
+ }
+ .three {
+     color: violet;
+ }
+ .four {
+     color: red;
+ }
+ .five {
+     color: rgb(255, 166, 0);
+ }
+ .six {
+     color: rgb(233, 219, 33); 
+ }
+ .eight {
+     color: green;
+ }
+ .nine {
+     color: rgb(0, 182, 182);
+ }
